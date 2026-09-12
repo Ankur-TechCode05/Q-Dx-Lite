@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  🚀 <a href="https://qdx-lite.netlify.app/"><strong>Live Demo</strong></a>
+  🚀 <a href="https://qdx-premium-lite.netlify.app/"><strong>Live Demo</strong></a>
 </p>
 
 ---
 
 ## 🌐 Live Website
 
-🚀 **Live Demo:** https://qdx-lite.netlify.app/
+🚀 **Live Demo:** https://qdx-premium-lite.netlify.app/
 
 Q-Dx is a modern healthcare technology prototype that combines Classical Machine Learning and Quantum Machine Learning concepts for interactive disease-risk assessment.
 
