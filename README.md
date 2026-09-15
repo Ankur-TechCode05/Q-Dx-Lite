@@ -1,162 +1,125 @@
-# 🧬 Q-Dx — Hybrid Quantum Machine Learning for Disease Risk Detection
+# ⚛️ Q-Dx QuantumLite
+
+### 🧬 Hybrid Quantum Machine Learning Platform for Early Disease Risk Detection
 
 <p align="center">
-  <strong>AI + Quantum Computing for Smarter, Earlier, and Explainable Disease Risk Assessment</strong>
+  <b>AI × Quantum Computing × Healthcare × Explainable Intelligence</b>
 </p>
 
 <p align="center">
-  🚀 <a href="https://qdx-premium-lite.netlify.app/"><strong>Live Demo</strong></a>
+  <img src="https://img.shields.io/badge/SIH-2026%20Prototype-7C3AED?style=for-the-badge&logo=atom" />
+  <img src="https://img.shields.io/badge/Quantum%20ML-Research-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Powered-2563EB?style=for-the-badge&logo=ai" />
+  <img src="https://img.shields.io/badge/Healthcare-Tech-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Prototype-F59E0B?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://q-dx-quantumlite.netlify.app/">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Q--Dx%20QuantumLite-7C3AED?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Live Website
+## 🌌 What is Q-Dx QuantumLite?
 
-🚀 **Live Demo:** https://qdx-premium-lite.netlify.app/
+**Q-Dx QuantumLite** is a next-generation healthcare intelligence prototype that explores the use of **Hybrid Quantum Machine Learning (HQML)** for early disease risk assessment.
 
-Q-Dx is a modern healthcare technology prototype that combines Classical Machine Learning and Quantum Machine Learning concepts for interactive disease-risk assessment.
+The platform combines:
 
----
+> 🧠 Classical Machine Learning  
+> ⚛️ Quantum Machine Learning  
+> 📊 Health Data Analytics  
+> 🔍 Explainable AI  
+> 🏥 Disease Risk Assessment
 
-## 📌 Overview
+Instead of depending on a single predictive model, Q-Dx explores a **hybrid intelligence pipeline** where classical and quantum-inspired approaches can be evaluated together.
 
-**Q-Dx** is a Hybrid Quantum Machine Learning platform designed to explore how classical and quantum-inspired machine learning approaches can be combined for early disease risk detection.
+### 🎯 Core Vision
 
-### The platform provides:
-
-- 🩺 Health risk assessment
-- 🤖 Classical ML analysis
-- ⚛️ Quantum ML / QSVM analysis
-- 📊 Model comparison
-- 📈 Analytics and visualization
-- 📄 Report generation
-- 🔍 Risk-factor analysis
-- 🗂️ Dataset exploration
-- 🔐 User authentication
-- ⚙️ Application settings
-
-> ⚠️ Q-Dx is an educational/research prototype and should not be used as a substitute for professional medical diagnosis or treatment.
+> **Detect risk earlier. Compare intelligence deeper. Explain decisions better.**
 
 ---
 
-# ✨ Key Features
+# 🚀 Explore the Live Prototype
 
-### 🩺 Risk Assessment
-Enter health-related parameters and generate an interactive risk assessment.
+### 🌐 Live Website
 
-### 🤖 Classical Machine Learning
-Includes classical machine-learning approaches such as:
+👉 **https://q-dx-quantumlite.netlify.app/**
 
-- Random Forest
-- XGBoost
-- Neural Network
+The live prototype demonstrates the complete user experience including:
 
-### ⚛️ Quantum Machine Learning
-Explores Quantum Support Vector Machine (QSVM) concepts for quantum-enhanced machine learning.
-
-### 📊 Model Comparison
-Compare classical and quantum approaches through performance metrics and visual analytics.
-
-### 📈 Analytics Dashboard
-Visualize model performance, risk distribution, assessment statistics, and dataset information.
-
-### 📄 Reports
-Generate and analyze assessment reports through the application interface.
-
-### 🔐 Authentication
-User authentication and application data management are integrated with Supabase.
-
-### 🎨 Modern UI
-- Responsive interface
-- Futuristic healthcare design
-- Animated backgrounds
-- Gradient visuals
-- Interactive cards
-- Charts and gauges
-- Dashboard navigation
+- Landing Dashboard
+- Health Assessment
+- Disease Modules
+- Data Processing
+- AI Analysis
+- Classical ML
+- Quantum ML
+- Model Comparison
+- Risk Assessment
+- Explainable Results
+- Analytics
+- History
+- Research
+- Dataset exploration
+- Settings
+- User profile
 
 ---
 
-# 🧠 Technology Stack
+# 🧩 Problem Statement
 
-## Frontend
+Millions of people face preventable health complications because potential disease risks are often identified **too late**.
 
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
+Traditional healthcare prediction systems may face challenges such as:
 
-## Backend & Database
+- Large and complex datasets
+- High-dimensional medical features
+- Difficult-to-interpret predictions
+- Limited accessibility
+- Fragmented health information
+- Lack of early-warning systems
+- Difficulty comparing emerging AI approaches
 
-- Supabase
-- PostgreSQL
-- Supabase Authentication
+Q-Dx addresses this challenge by exploring a unified platform for:
 
-## Machine Learning
-
-- Python
-- Random Forest
-- XGBoost
-- Neural Network
-- Quantum Support Vector Machine (QSVM)
-
-## Deployment & Tools
-
-- GitHub
-- Netlify
-- VS Code
-- npm
+**Risk Prediction + Model Comparison + Explainability + Research**
 
 ---
 
-# 🔬 Machine Learning Models
+# 💡 Our Solution
 
-| Model | Purpose |
-|---|---|
-| 🌲 Random Forest | Classical classification |
-| 🚀 XGBoost | Gradient boosting classification |
-| 🧠 Neural Network | Neural-network based prediction |
-| ⚛️ QSVM | Quantum machine learning approach |
-
----
-
-# 🔄 System Workflow
+Q-Dx introduces a hybrid AI architecture where:
 
 ```text
-                 ┌─────────────────────┐
-                 │     User Input      │
-                 │  Health Parameters  │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │   Data Processing   │
-                 │ Cleaning & Features │
-                 └──────────┬──────────┘
-                            │
-                 ┌──────────┴──────────┐
-                 ▼                     ▼
-        ┌─────────────────┐   ┌─────────────────┐
-        │ Classical ML    │   │ Quantum ML      │
-        │                 │   │                 │
-        │ Random Forest   │   │ QSVM            │
-        │ XGBoost         │   │                 │
-        │ Neural Network  │   │                 │
-        └────────┬────────┘   └────────┬────────┘
-                 │                     │
-                 └──────────┬──────────┘
-                            ▼
-                 ┌─────────────────────┐
-                 │  Model Comparison   │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │   Risk Assessment   │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │ Explainable Results │
-                 │ & Report Generation │
-                 └─────────────────────┘
+              USER HEALTH DATA
+                     │
+                     ▼
+            ┌─────────────────┐
+            │ Data Validation │
+            │ & Preprocessing │
+            └────────┬────────┘
+                     │
+                     ▼
+              Feature Selection
+                     │
+            ┌────────┴────────┐
+            │                 │
+            ▼                 ▼
+     CLASSICAL ML        QUANTUM ML
+            │                 │
+            │                 │
+            └────────┬────────┘
+                     ▼
+             MODEL COMPARISON
+                     │
+                     ▼
+              RISK ASSESSMENT
+                     │
+                     ▼
+           EXPLAINABLE RESULTS
+                     │
+                     ▼
+             HISTORY & REPORT
